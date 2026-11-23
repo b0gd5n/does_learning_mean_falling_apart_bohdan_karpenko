@@ -1,0 +1,4 @@
+matplotlib
+numpy
+scipy
+pyphi @ git+https://github.com/wmayner/pyphi.git@b78d0e342
